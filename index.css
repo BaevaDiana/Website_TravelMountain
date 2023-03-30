@@ -148,7 +148,7 @@
     word-break: break-word;
     text-align: center;
     position: relative;
-    top: -270px;
+    top: 10px;
     left: 470px;
 }
 
@@ -164,8 +164,112 @@
     text-align: center;
     word-break: break-word;
     position: relative;
-    top: -240px;
+    top: 30px;
     left: -300px;
+}
+
+.number_1 {
+    font-family: Trebuchet MS, sans-serif;
+    color: #f11313;
+    font-size: 96px;
+    font-weight: 700;
+    text-align: center;
+    position: relative;
+    top: -90px;
+    left: 250px;
+}
+
+.number_2 {
+    font-family: Trebuchet MS, sans-serif;
+    color: #f11313;
+    font-size: 96px;
+    font-weight: 700;
+    text-align: center;
+    position: relative;
+    top: -90px;
+    left: 450px;
+}
+
+.number_3 {
+    font-family: Trebuchet MS, sans-serif;
+    color: #f11313;
+    font-size: 96px;
+    font-weight: 700;
+    text-align: center;
+    position: relative;
+    top: -90px;
+    left: 650px;
+}
+
+.number_4 {
+    font-family: Trebuchet MS, sans-serif;
+    color: #f11313;
+    font-size: 96px;
+    font-weight: 700;
+    text-align: center;
+    position: relative;
+    top: -90px;
+    left: 800px;
+}
+
+.text_5_2_2 {
+    width: 142px;
+    font-family: Open Sans, sans-serif;
+    font-size: 1.5rem;
+    font-weight: 100;
+    line-height: 1.6;
+    letter-spacing: 5px;
+    color: #ffffff;
+    text-align: center;
+    word-break: break-word;
+    position: relative;
+    top: -15px;
+    left: -210px;
+}
+
+.text_5_2_3 {
+    width: 300px;
+    font-family: Open Sans, sans-serif;
+    font-size: 1.5rem;
+    font-weight: 100;
+    line-height: 1.6;
+    letter-spacing: 5px;
+    color: #ffffff;
+    text-align: center;
+    word-break: break-word;
+    position: relative;
+    top: -13px;
+    left: -120px;
+}
+
+.text_5_2_4 {
+    width: 300px;
+    font-family: Open Sans, sans-serif;
+    font-size: 1.5rem;
+    font-weight: 100;
+    line-height: 1.6;
+    letter-spacing: 5px;
+    color: #ffffff;
+    text-align: center;
+    word-break: break-word;
+    position: relative;
+    top: -13px;
+    left: -95px;
+}
+
+.text_5_2_5 {
+    width: 300px;
+    font-family: Open Sans, sans-serif;
+    font-size: 1.5rem;
+    font-weight: 100;
+    line-height: 1.6;
+    letter-spacing: 5px;
+    color: #ffffff;
+    text-align: center;
+    word-break: break-word;
+    position: relative;
+    top: -13px;
+    left: -145px;
 }
 
 
