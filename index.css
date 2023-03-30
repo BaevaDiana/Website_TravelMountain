@@ -272,4 +272,47 @@
     left: -145px;
 }
 
+.title_6_1 {
+    width: 3000px;
+    font-family: Trebuchet MS, sans-serif;
+    letter-spacing: 0.01rem;
+    font-weight: 400;
+    font-size: 3rem;
+    line-height: 1.1;
+    color: #ffffff;
+    word-break: break-word;
+    text-align: right;
+    position: relative;
+    top: -250px;
+    left: -300px;
+}
+
+
+.text_6_1 {
+    width: 2000px;
+    font-family: Open Sans, sans-serif;
+    letter-spacing: 0.01rem;
+    font-weight: 500;
+    font-size: 1rem;
+    line-height: 1.6;
+    color: #ffffff;
+    text-align: right;
+    position: relative;
+    top: -190px;
+    left: -650px;
+}
+
+.text_6_2 {
+    width: 500px;
+    font-family: Open Sans, sans-serif;
+    letter-spacing: 0.01rem;
+    font-weight: 500;
+    font-size: 1rem;
+    line-height: 1.6;
+    color: #ffffff;
+    text-align: right;
+    position: relative;
+    top: -115px;
+    left: -800px;
+}
 
