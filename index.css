@@ -135,5 +135,37 @@
     width: 1000px;
 }
 
+.title_5_1 {
+    display: flex;
+    width: 700px;
+    height: 200px;
+    font-family: Trebuchet MS, sans-serif;
+    letter-spacing: 0.01rem;
+    font-weight: 300;
+    font-size: 3rem;
+    line-height: 1.1;
+    color: #ffffff;
+    word-break: break-word;
+    text-align: center;
+    position: relative;
+    top: -270px;
+    left: 470px;
+}
+
+.text_5_1 {
+    display: flex;
+    width: 700px;
+    height: 100px;
+    font-family: Open Sans, sans-serif;
+    font-size: 1rem;
+    font-weight: 100;
+    line-height: 1.6;
+    color: #ffffff;
+    text-align: center;
+    word-break: break-word;
+    position: relative;
+    top: -240px;
+    left: -300px;
+}
 
 
